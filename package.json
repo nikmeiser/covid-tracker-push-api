@@ -16,7 +16,7 @@
   "dependencies": {
     "@nearform/sql": "^1.4.0",
     "apn": "^2.2.0",
-    "aws-sdk": "^2.656.0",
+    "aws-sdk": "^2.814.0",
     "env-schema": "^1.1.0",
     "fastify": "^2.13.1",
     "fastify-autoload": "^1.2.2",
